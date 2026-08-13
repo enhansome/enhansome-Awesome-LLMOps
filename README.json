@@ -1,0 +1,217 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Model"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Large Language Model"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "CV Foundation Model"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Audio Foundation Model"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Robotics Foundation Model"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Serving"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Large Model Serving"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Frameworks/Servers for Serving"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Frameworks for LLM security"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Observability"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "LLMOps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Search"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hybrid search"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Vector search"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Code AI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Training"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "IDEs and Workspaces"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Foundation Model Fine Tuning"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Frameworks for Training"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Experiment Tracking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Visualization"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Model Editing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Data Management"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Data Storage"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Data Tracking"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Feature Engineering"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Data/Feature enrichment"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Large Scale Deployment"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "ML Platforms"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Workflow"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Scheduling"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Model Management"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Performance"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "ML Compiler"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Profiling"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "AutoML"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Optimizations"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Federated ML"
+    },
+    {
+      "description": "⬆ back to ToC",
+      "items": [],
+      "title": "Awesome Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:32:30.245Z",
+    "original_repository": "tensorchord/Awesome-LLMOps",
+    "original_repository_sha": "4fbf8d456e925e5adc588ed02a8bfbbdd728f9d2",
+    "enhanced_repository": "enhansome/enhansome-Awesome-LLMOps",
+    "enhanced_repository_description": null,
+    "title": "Awesome LLMOps with stars"
+  }
+}
